@@ -17,10 +17,10 @@ def get_data(config_path):
     data_path = config["data_source"]["s3_source"]
    # print(data_path)
     df = pd.read_csv(data_path, sep=",", encoding='utf-8')
-    print(df.head)
+    #print(df.head)
     return df
 
-
+#added extra comment
 
 if __name__=="__main__":
     args = argparse.ArgumentParser()
