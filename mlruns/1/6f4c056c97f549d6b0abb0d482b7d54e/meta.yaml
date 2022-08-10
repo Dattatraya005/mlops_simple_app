@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/6f4c056c97f549d6b0abb0d482b7d54e/artifacts
+end_time: 1660121702635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6f4c056c97f549d6b0abb0d482b7d54e
+run_uuid: 6f4c056c97f549d6b0abb0d482b7d54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660121690825
+status: 4
+tags: []
+user_id: NavagireD
