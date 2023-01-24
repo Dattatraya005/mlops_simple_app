@@ -1,4 +1,4 @@
-# split the raw data 
+# split the raw data for models
 # save it in data/processed folder
 import os
 import argparse
